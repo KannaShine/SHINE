@@ -1,0 +1,52 @@
+body{
+    margin-left:0px;
+    margin-top:0px;
+    margin-right: 0px;
+    text-align: center;
+    background-color: #E6F9F6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top-container{
+position:relative;
+padding:3.125em;
+}
+.name{
+  position: absolute;
+    top: 5.8em ;
+    left:9em ;
+    display: inline-block;
+    font-size: 3em;
+}
+.subname{
+  position: absolute;
+    top: 21.875em;
+    left: 31em;
+    display: inline-block;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style:dotted;
+  width: 20%;
+  border-width: 1em;
+  height:0;
+  margin-top:5em;
+}
+.shine{
+  padding-top:2.5em;
+}
+.skills { text-align: center; 
+}
+ul { display: inline-block; text-align: left; 
+}
+.skill{ padding-top: 2em;
+}
+#lastline{
+  border-style: solid;
+  border-color: black;
+  width:100%;
+  border-width: 1px;
+  margin-top: 30px;
+}
+.bottom-container{
+}
